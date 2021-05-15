@@ -1,0 +1,43 @@
+h1{
+    color:blue;
+    font-style: bold;
+    
+}
+.header{
+    background-color: aqua;
+    display:flex;
+    
+    justify-content: center;
+    
+    
+
+}
+.Footer{
+    display:flex;
+    justify-content: flex-end;
+}
+.menu a{
+    color: black;
+    
+    
+    
+
+}
+p,h2{
+    text-align: center;
+}
+.images{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-content: space-around;
+
+    
+}
+
+
